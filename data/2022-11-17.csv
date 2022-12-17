@@ -191,7 +191,7 @@
 229,"Silk",2,5,"When anyone plays a card here, move this to another location.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silk.webp?v=25",false,"Not Available"
 230,"Silver Sable",2,6,"You can only play this at a location where you have 6+ total Power.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-sable.webp?v=25",false,"Not Available"
 231,"Silver Samurai",1,2,"When this is discarded from your hand, draw a card.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=25",false,"Not Available"
-232,"Silver Surfer",3,0,"<span>On Reveal</span>: Give your other 3-Cost cards +3 Power.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=25",false,"Season Pass"
+232,"Silver Surfer",3,0,"<span>On Reveal</span>: Give your other 3-Cost cards +3 Power.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=25",true,"Season Pass"
 235,"Snowguard",1,2,"If you haven't played this by turn 3, transform into a random spirit animal.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard.webp?v=25",false,"Not Available"
 239,"Spectrum",6,5,"<span>On Reveal</span>: Give your Ongoing cards +2 Power.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=25",true,"Collection Level 1-14"
 240,"Spider-Man",4,3,"<span>On Reveal</span>: Your opponent can’t play cards at this location next turn.","","https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=25",true,"Collection Level 486+ (Pool 3)"
